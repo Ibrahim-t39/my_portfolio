@@ -1,0 +1,46 @@
+.hero-section {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(25,25,102,1) 50%, rgba(0,212,255,1) 100%);
+}
+
+.hero-img {
+    border-radius: 10%;
+}
+
+.hero-h1 {
+    color: white;
+}
+
+.lead {
+    color: white;
+}
+
+.resume-h1 {
+    text-align: center;
+    color: rgba(25,25,102,1);
+}
+
+.col {
+    height: 350px;
+}
+
+.projects-h1 {
+    text-align: center;
+    color: white;
+}
+
+.project-color {
+    color: white;
+}
+
+.project-img-border {
+    border-radius: 15%;
+}
+
+.mb-3 {
+    color: white;
+}
+
+connect-color {
+    color: black;
+}
